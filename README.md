@@ -15,6 +15,6 @@ Controls:
     "Open Settings:  'O'",
     "Open Save/Load Menu:  'I'",
     "Toggle Shaders:  'X'",
-	    
-		Debug: P - next Music
-		U- Switch level
+	
+	Debug: P - next Music
+	U- Switch level
