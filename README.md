@@ -13,7 +13,8 @@ My Implementations and Contributions:
 - Destroyable Wall / Floor
 - Character Swap
 - Dash/Dodge (Shift) for Character 2 (Rocker)
-- Shaders - Level 1 & 3 Visuals
+- Shaders
+- Level 1 & 3 Visuals
 - Custom Font
 - Custom HP&Energy frames
 - Resizable UI
