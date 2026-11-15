@@ -2,19 +2,26 @@
 This is an univercity project from subject "Software Engineering" 
 It is a 2D platformer game, done on C# on self-written engine using a Raylib Library.
 
-Controls:
-    "Walk:  A - D ",
-    "Jump:  'Space' ",
-    "Plunge Attack:  'Space + S' ",
-    "Climb:  'W - S' ",
-    "Character Swap:  'F / R' ",
-    "Movement Ability:  'Left Shift'",
-    "Combat Ability:  'E'",
-    "Light Attack:  'M1/M'",
-    "Strong Attack:  'M2/N'",
-    "Open Settings:  'O'",
-    "Open Save/Load Menu:  'I'",
-    "Toggle Shaders:  'X'",
+My role: Team-Leader & Scrum Master, Developer
+
+My Implementations and Contributions: 
+- Portal
+- Jump Pad for High Jump Boost
+- Character 1/ Ability 1 (Hacker)
+- Character 2/ Ability 1 (Rocker)
+- Backflip for Character 3 (Artist)
+- Destroyable Wall / Floor
+- Character Swap
+- Dash/Dodge (Shift) for Character 2 (Rocker)
+- Shaders - Level 1 & 3 Visuals
+- Custom Font
+- Custom HP&Energy frames
+- Resizable UI
+- Level Collision
+- Collision Level 2
+- Enemies & Combat Enhancement
+- Custom Cursor
+- Main Menu
+- Clearing Code
+Bugfixes: 8
 	
-	Debug: P - next Music
-	U- Switch level
