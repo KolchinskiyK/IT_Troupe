@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkCcawnGbgm3IpUe21zSwYzuSqwlTeXNyetI29Z/WzkIN5NfGMKb3PCBwZ2Sb6XT2LKjVG1zSEATUMQQdu1Vgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Klim\\source\\repos\\kavas\\IT Troupe\\IT Troupe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Klim\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\Klim\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

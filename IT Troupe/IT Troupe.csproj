@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>IT_Troupe</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Raylib-cs" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Enemies\" />
+    <None Remove=".editorconfig" />
+    <None Remove="Asset\World_Level_2" />
+    <None Remove="Asset\World_Level_3" />
+    <None Remove="Asset\World_Level_1" />
+    <None Remove="Asset\World_Level_0" />
+    <None Remove="Assets\.DS_Store" />
+    <None Remove="Assets\World_Level_2\_bg.png" />
+    <None Remove="Assets\World_Level_2\Wall_shadows.png" />
+    <None Remove="Assets\World_Level_2\_composite.png" />
+    <None Remove="Assets\World_Level_2\Collisions.png" />
+    <None Remove="Assets\World_Level_2\Background.png" />
+    <None Remove="Assets\World_Level_2\data.json" />
+    <None Remove="Assets\World_Level_2\Collisions.csv" />
+    <None Remove="Assets\World_Level_2\Collisions-int.png" />
+    <None Remove="Assets\World_Level_3\_bg.png" />
+    <None Remove="Assets\World_Level_3\Wall_shadows.png" />
+    <None Remove="Assets\World_Level_3\_composite.png" />
+    <None Remove="Assets\World_Level_3\Collisions.png" />
+    <None Remove="Assets\World_Level_3\Background.png" />
+    <None Remove="Assets\World_Level_3\data.json" />
+    <None Remove="Assets\World_Level_3\Collisions.csv" />
+    <None Remove="Assets\World_Level_3\Collisions-int.png" />
+    <None Remove="Assets\World_Level_1\_bg.png" />
+    <None Remove="Assets\World_Level_1\Wall_shadows.png" />
+    <None Remove="Assets\World_Level_1\_composite.png" />
+    <None Remove="Assets\World_Level_1\Collisions.png" />
+    <None Remove="Assets\World_Level_1\Background.png" />
+    <None Remove="Assets\World_Level_1\data.json" />
+    <None Remove="Assets\World_Level_1\Collisions.csv" />
+    <None Remove="Assets\World_Level_1\Collisions-int.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="UI\HUD.cs" />
+  </ItemGroup>
+</Project>

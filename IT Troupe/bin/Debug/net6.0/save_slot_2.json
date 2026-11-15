@@ -1,0 +1,542 @@
+{
+  "PlayerPosition": "150.37527,527",
+  "CameraOffset": "640,360",
+  "CameraTarget": "150.37527,527",
+  "CameraRotation": 0,
+  "CameraZoom": 1.2,
+  "Enemy_Burnout": [
+    {
+      "sourceRect": "0,0,64,64",
+      "rect": "1654.6952,500,50,60",
+      "speed": 100,
+      "direction": 1,
+      "color": "200,200,255,180",
+      "legOffset": 4.6408644,
+      "fireCooldown": 1.453045,
+      "fireballs": [],
+      "maxHP": 100,
+      "currentHP": 100,
+      "hpBarHeight": 10
+    }
+  ],
+  "Test_Enemy": [
+    {
+      "rect": "965,1300,45,70",
+      "sourceRect": "0,0,-20,59",
+      "maxHP": 100,
+      "currentHP": 100,
+      "hpBarHeight": 10,
+      "attackAreaColor": "0,0,255,20",
+      "direction": "1,0",
+      "speed": 1,
+      "moveFrames": 200,
+      "movingForward": false,
+      "frameCounter": 0,
+      "enemyVertVel": 0,
+      "attackSkill": {
+        "attackInterval": 5000,
+        "lastAttackTime": 17546.6204
+      },
+      "isColliding": false
+    },
+    {
+      "rect": "1460,480,45,70",
+      "sourceRect": "0,0,-20,59",
+      "maxHP": 100,
+      "currentHP": 100,
+      "hpBarHeight": 10,
+      "attackAreaColor": "0,0,255,20",
+      "direction": "1,0",
+      "speed": 1,
+      "moveFrames": 200,
+      "movingForward": false,
+      "frameCounter": 0,
+      "enemyVertVel": 0,
+      "attackSkill": {
+        "attackInterval": 5000,
+        "lastAttackTime": 17546.622
+      },
+      "isColliding": false
+    }
+  ],
+  "DFloors": [
+    {
+      "x": 300,
+      "y": 800,
+      "Width": 195,
+      "Height": 25
+    }
+  ],
+  "Floors": [
+    {
+      "x": 0,
+      "y": 582,
+      "Width": 305,
+      "Height": 250
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "Width": 640,
+      "Height": 207
+    },
+    {
+      "x": -30,
+      "y": 0,
+      "Width": 50,
+      "Height": 700
+    },
+    {
+      "x": 630,
+      "y": 0,
+      "Width": 250,
+      "Height": 550
+    },
+    {
+      "x": 630,
+      "y": 540,
+      "Width": 45,
+      "Height": 350
+    },
+    {
+      "x": 500,
+      "y": 810,
+      "Width": 220,
+      "Height": 260
+    },
+    {
+      "x": 0,
+      "y": 780,
+      "Width": 108,
+      "Height": 290
+    },
+    {
+      "x": 0,
+      "y": 1070,
+      "Width": 365,
+      "Height": 335
+    },
+    {
+      "x": 515,
+      "y": 1430,
+      "Width": 265,
+      "Height": 100
+    },
+    {
+      "x": 230,
+      "y": 1470,
+      "Width": 365,
+      "Height": 100
+    },
+    {
+      "x": 0,
+      "y": 1400,
+      "Width": 265,
+      "Height": 100
+    },
+    {
+      "x": 775,
+      "y": 1370,
+      "Width": 365,
+      "Height": 200
+    },
+    {
+      "x": 1035,
+      "y": 1050,
+      "Width": 425,
+      "Height": 450
+    },
+    {
+      "x": 630,
+      "y": 1065,
+      "Width": 150,
+      "Height": 100
+    },
+    {
+      "x": 715,
+      "y": 1050,
+      "Width": 250,
+      "Height": 70
+    },
+    {
+      "x": 785,
+      "y": 790,
+      "Width": 400,
+      "Height": 50
+    },
+    {
+      "x": 1010,
+      "y": 650,
+      "Width": 150,
+      "Height": 150
+    },
+    {
+      "x": 1110,
+      "y": 550,
+      "Width": 630,
+      "Height": 250
+    },
+    {
+      "x": 1920,
+      "y": 550,
+      "Width": 480,
+      "Height": 350
+    },
+    {
+      "x": 675,
+      "y": 790,
+      "Width": 45,
+      "Height": 350
+    },
+    {
+      "x": 1160,
+      "y": 785,
+      "Width": 300,
+      "Height": 300
+    },
+    {
+      "x": 1690,
+      "y": 150,
+      "Width": 55,
+      "Height": 220
+    },
+    {
+      "x": 860,
+      "y": 0,
+      "Width": 1400,
+      "Height": 140
+    },
+    {
+      "x": 2250,
+      "y": 140,
+      "Width": 150,
+      "Height": 700
+    },
+    {
+      "x": 2400,
+      "y": 430,
+      "Width": 600,
+      "Height": 40
+    },
+    {
+      "x": 2960,
+      "y": 475,
+      "Width": 50,
+      "Height": 300
+    },
+    {
+      "x": 1575,
+      "y": 1400,
+      "Width": 260,
+      "Height": 100
+    },
+    {
+      "x": 1830,
+      "y": 1335,
+      "Width": 65,
+      "Height": 120
+    },
+    {
+      "x": 1905,
+      "y": 1450,
+      "Width": 165,
+      "Height": 100
+    },
+    {
+      "x": 2050,
+      "y": 1335,
+      "Width": 320,
+      "Height": 120
+    },
+    {
+      "x": 2340,
+      "y": 1275,
+      "Width": 320,
+      "Height": 120
+    },
+    {
+      "x": 1460,
+      "y": 1445,
+      "Width": 120,
+      "Height": 120
+    },
+    {
+      "x": 1606,
+      "y": 1110,
+      "Width": 600,
+      "Height": 95
+    },
+    {
+      "x": 1605,
+      "y": 980,
+      "Width": 140,
+      "Height": 130
+    },
+    {
+      "x": 1860,
+      "y": 920,
+      "Width": 80,
+      "Height": 60
+    },
+    {
+      "x": 1607,
+      "y": 1200,
+      "Width": 130,
+      "Height": 45
+    },
+    {
+      "x": 1930,
+      "y": 885,
+      "Width": 270,
+      "Height": 240
+    },
+    {
+      "x": 2665,
+      "y": 1080,
+      "Width": 50,
+      "Height": 200
+    },
+    {
+      "x": 2505,
+      "y": 750,
+      "Width": 500,
+      "Height": 330
+    },
+    {
+      "x": 2200,
+      "y": 750,
+      "Width": 250,
+      "Height": 330
+    }
+  ],
+  "GrassObstacles": [
+    {
+      "x": 241,
+      "y": 1435,
+      "Width": 360,
+      "Height": 60
+    },
+    {
+      "x": 1750,
+      "y": 990,
+      "Width": 180,
+      "Height": 130
+    },
+    {
+      "x": 1455,
+      "y": 1401,
+      "Width": 135,
+      "Height": 50
+    },
+    {
+      "x": 1905,
+      "y": 1342,
+      "Width": 165,
+      "Height": 125
+    }
+  ],
+  "HealItems": [
+    {
+      "x": 1700,
+      "y": 1360,
+      "radius": 10,
+      "collected": false
+    }
+  ],
+  "JumpPads": [
+    {
+      "x": 930,
+      "y": 780,
+      "width": 40,
+      "height": 10,
+      "used": false,
+      "usedTimer": 0
+    }
+  ],
+  "Ladders": [
+    {
+      "y": 1053,
+      "x": 1010,
+      "Width": 30,
+      "Height": 225
+    },
+    {
+      "y": 800,
+      "x": 720,
+      "Width": 30,
+      "Height": 255
+    },
+    {
+      "y": 740,
+      "x": 2460,
+      "Width": 30,
+      "Height": 500
+    }
+  ],
+  "MovingPlatforms": [],
+  "Platforms": [
+    {
+      "x": 515,
+      "y": 470,
+      "Width": 120,
+      "Height": 15
+    },
+    {
+      "x": 300,
+      "y": 362,
+      "Width": 120,
+      "Height": 15
+    },
+    {
+      "x": 100,
+      "y": 930,
+      "Width": 120,
+      "Height": 15
+    },
+    {
+      "x": 100,
+      "y": 930,
+      "Width": 120,
+      "Height": 15
+    },
+    {
+      "x": 545,
+      "y": 1300,
+      "Width": 110,
+      "Height": 15
+    },
+    {
+      "x": 865,
+      "y": 405,
+      "Width": 110,
+      "Height": 15
+    },
+    {
+      "x": 970,
+      "y": 240,
+      "Width": 80,
+      "Height": 15
+    },
+    {
+      "x": 1120,
+      "y": 435,
+      "Width": 80,
+      "Height": 15
+    },
+    {
+      "x": 1515,
+      "y": 370,
+      "Width": 80,
+      "Height": 15
+    },
+    {
+      "x": 1280,
+      "y": 275,
+      "Width": 140,
+      "Height": 15
+    },
+    {
+      "x": 2025,
+      "y": 410,
+      "Width": 140,
+      "Height": 15
+    },
+    {
+      "x": 2680,
+      "y": 640,
+      "Width": 80,
+      "Height": 15
+    }
+  ],
+  "Walls": [
+    {
+      "x": 780,
+      "y": 1150,
+      "Width": 20,
+      "Height": 220
+    }
+  ],
+  "Sounds": {
+    "Main1": {},
+    "Main2": {},
+    "MHQ": {},
+    "MLib": {}
+  },
+  "MainMenu": {
+    "selectedOption": 0,
+    "isInMainMenu": false,
+    "IsActive": false
+  },
+  "Colors": {
+    "paintingcolor": "170,0,130,100",
+    "plungingcolor": "65,240,170,100",
+    "burningcolor": "250,75,25,100",
+    "firecolor": "250,60,20,120",
+    "characterIcolor": "0,180,130,255",
+    "backColor": "23,13,3,255"
+  },
+  "Player": {
+    "paintings": [],
+    "plungingPillar": [],
+    "fireTrace": [],
+    "character": 2,
+    "playerColor": "0,105,75,255",
+    "playerWidth": 45,
+    "playerHeight": 55,
+    "playerRotationAngle": 0,
+    "player": "30,352,0,0",
+    "playerDirection": 1,
+    "speedbonus": 1,
+    "countspeedframes": 108.93662,
+    "playerSpeed": 200,
+    "gravity": 700,
+    "verticalVelocity": 0,
+    "nonGravityTime": 0,
+    "jumpStrength": -300,
+    "jumpCount": 0,
+    "maxJumps": 2,
+    "jumpBoost": 1,
+    "jumpBoostDuration": -374,
+    "isOnPlatform": true,
+    "isClimbing": false,
+    "isPlunging": false,
+    "plungeDuration": 0,
+    "dashtimer": 0,
+    "isDashingLeft": false,
+    "isDashingRight": false,
+    "dashcooldown": -8.935526,
+    "isDashing": false,
+    "isLookingRight": true,
+    "fliptimer": 0,
+    "isFlippingLeft": false,
+    "isFlippingRight": false,
+    "flipcooldown": -8.935526,
+    "isCollidingWithPlatformleft": false,
+    "pXl": 0,
+    "isCollidingWithPlatformright": false,
+    "pXr": 0,
+    "teleportrange": 50,
+    "tpcooldown": -4.670012,
+    "isCollidingWithFloorleft": false,
+    "fXl": 0,
+    "isCollidingWithFloorright": false,
+    "fXr": 0,
+    "energy": 94.67722,
+    "outOfEnergy": 0,
+    "paintingtimer": 1000,
+    "isSearching": false,
+    "isVictim": false,
+    "plungingtimer": 1000,
+    "firing": 0,
+    "maxHP": 100,
+    "currentHP": 100,
+    "grassCount": 0,
+    "grassTimer": -924,
+    "lastSafePosition": "150.37527,527",
+    "fallLimit": 5000,
+    "deltaTime": 0.0167347,
+    "isSaveLoadMenu": true,
+    "selectedSaveSlot": 1,
+    "IsProtected": false
+  }
+}
