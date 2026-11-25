@@ -1,4 +1,4 @@
-IT\_Troupe
+# IT\_Troupe
 
 This is an univercity project from subject "Software Engineering".
 It is a 2D platformer game, done on C# on self-written engine using a Raylib Library.
